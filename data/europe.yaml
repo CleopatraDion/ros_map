@@ -18,6 +18,12 @@
    long: 22.960775
    lat: 40.627491
    link: http://pandora.ee.auth.gr
+   name: Blue Ocean Robotics ApS
+   description: Developing, creating and commercialising robots
+   type: company
+   long: 10.443272
+   lat: 55.375628
+   link: www.blue-ocean-robotics.com
  - name: Bonn-Rhein-Sieg University of Applied Sciences
    type: school
    address: Grantham-Allee 20, 53757 Sankt Augustin, Germany
